@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "최서연"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/tangled.jpg"
   bio              : "서연잉."
   location         : "대한민국, 강릉"
   email            : "sjmt7420@gmail.com"
